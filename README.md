@@ -3,7 +3,7 @@ This task focuses on the problem of predicting how memorable a video is to viewe
 It requires participants to automatically predict memorability scores for videos that reflect the probability a video will be remembered. 
 Task participants are provided with an extensive dataset of videos that are accompanied by memorability annotations, as well as pre-extracted state-of-the-art visual features. 
 The ground truth has been collected through recognition tests, and thus results from objective measurement of memory performance. 
-Participants were be required to train computational models capable of inferring video memorability from visual content. 
+Participants were required to train computational models capable of inferring video memorability from visual content. 
 Descriptive titles (Captions) attached to the videos were not to be used. 
 Models were evaluated through standard evaluation metrics used in ranking tasks (Spearman’s rank correlation).
 This project describes a multimodal weighted average method that may outperform the Predicting Media
